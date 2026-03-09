@@ -22,7 +22,7 @@ public class PersonController {
     public PersonController(PersonService service) {
         this.service = service;
     }
-
+ 
     @PostMapping
     public ResponseEntity<Person> create(@RequestBody Person person) {
         Person savedPerson = service.save(person);
