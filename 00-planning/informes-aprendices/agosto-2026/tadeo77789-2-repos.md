@@ -57,12 +57,12 @@
 
 ## 3. Verificación del aprendiz
 
-- [ ] Todos los commits listados los hice con mi cuenta (aparece mi foto de perfil en GitHub).
-- [ ] Incluí los commits de **todas las ramas** de cada repositorio, no solo de la rama por defecto.
-- [ ] Todos los commits caen entre el 11 de agosto y el 30 de septiembre de 2026 (hora Colombia).
-- [ ] Cada enlace de repositorio y de commit abre en GitHub.
-- [ ] El total de cada repositorio coincide con el número de filas de su tabla.
-- [ ] En los repositorios privados indiqué si el instructor tiene acceso (los dos son públicos).
+- [x] Todos los commits listados los hice con mi cuenta (aparece mi foto de perfil en GitHub).
+- [x] Incluí los commits de **todas las ramas** de cada repositorio, no solo de la rama por defecto.
+- [x] Todos los commits caen entre el 11 de agosto y el 30 de septiembre de 2026 (hora Colombia).
+- [x] Cada enlace de repositorio y de commit abre en GitHub.
+- [x] El total de cada repositorio coincide con el número de filas de su tabla.
+- [x] En los repositorios privados indiqué si el instructor tiene acceso (los dos son públicos).
 
 ## 4. Observaciones
 
